@@ -54,7 +54,18 @@ For this i need a few different things:
 >Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
 ### CI
-For the CI tool im using Github Actions. I chose GitHub Actions because i dont have to host it myself or on my own server. This means it will always be active. 
+For the CI tool im using Github Actions. I chose GitHub Actions because GitHub hosts it for me and it had easy configurations with the YAML file. Also is it very useful to have a wide range of tool to my disposure such as docker.
+
+#### CI Pileline
+When I think of a Git or CI pipeline I think of something like what is demonstrated in this picture.
+
+![image](https://i.imgur.com/QmUpWHH.png)
+
+You have the master of the main branch, this is your version control and your main application branch. 
+From this branch you create a dev branch. This will be the branch where all development will be added together and checked if they work together.
+
+If a new feature need to be added, a feature branch will be made from the dev branch, the feature will be made and then when that feature is finished you can merge it back into the dev and delete the feature branch. When you have multiple features added to your branch and a stable version of your application you can merge your dev branch into master to release a new version of your application.
+
 
 ### CD
 
