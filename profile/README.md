@@ -53,6 +53,11 @@ For this i need a few different things:
 >
 >Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
+###CI
+For the CI tool im using Github Actions. I chose GitHub Actions because i dont have to host it myself or on my own server. This means it will always be active. 
+
+###CD
+
 ## 5. Cultural differences and ethics
 >Clarifications:
 >
