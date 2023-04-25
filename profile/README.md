@@ -30,8 +30,13 @@ When this happend I thoutgh I would really appreciate one place where I can find
 
 To challenge myself i went for all new programming languages. I used Java for my back-end and Vue 3 for my front-end. I have never worked with these before but during this project i am hoping to learn allot about them.
 
-### [YourGroceryFinder](https://github.com/YourGroceryFinder/YourGroceryFinder)
-This project is my application. Here you can find all the code i have written, for the front-end, back-end and the scraper.
+### How it Works
+Your Grocery finder works by getting all of the items from different stores into a database and then showing it to the user.
+For this i need a few different things:
++ A front-end where the user can search for products. See [YourGroceryFinder Front-end](https://github.com/YourGroceryFinder/YourGroceryFinder_Front-End)
++ A back-end that connects the front-end with the database. See [YourGroceryFinder Back-end](https://github.com/YourGroceryFinder/YourGroceryFinder_Back-End)
++ A Scraper to get all the products from the different websites. See [YourGroceryFinder Scraper](https://github.com/YourGroceryFinder/YourGroceryFinder_Scraper)
++ A database where all the products are stored.
 
 ## 2. Software quality
 >Clarification:
