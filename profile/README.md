@@ -43,15 +43,23 @@ For this i need a few different things:
 >
 >Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well >as applying static code analysis and code reviews.
 
+# Tests
+
+# Sonar cloud
+
 ## 3. Agile method
 >Clarification:
 >
 >Choose: You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined >selection criteria and context analyses.
 
+# Jira
+
 ## 4. CI/CD
 >Clarification:
 >
 >Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
+
+#Redirect to documentation
 
 ### CI
 For the CI tool im using Github Actions. I chose GitHub Actions because GitHub hosts it for me and it had easy configurations with the YAML file. Also is it very useful to have a wide range of tool to my disposure such as docker.
@@ -78,10 +86,14 @@ If a new feature need to be added, a feature branch will be made from the dev br
 >
 >Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
 
+#Group project wait
+
 ## 6. Requirements and design
 >Clarification:
 >
 >Multiple types of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of >the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
+
+# --
 
 ## 7. Business process
 >Clarification:
@@ -94,6 +106,8 @@ If a new feature need to be added, a feature branch will be made from the dev br
 >
 >Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
+# Show communication with group and stake holders
+
 ## 8. Proffessional
 >
 >Clarification:
@@ -104,3 +118,5 @@ If a new feature need to be added, a feature branch will be made from the dev br
 >
 >You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
 >You choose and substantiate solutions for a given problem.
+
+# Show mistake. I didnt communicate enough with stakeholder in IP but made up for that in GP with contact towards stakeholders there. 
