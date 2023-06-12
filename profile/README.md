@@ -78,7 +78,7 @@ If a new feature need to be added, a feature branch will be made from the dev br
 
 
 ### CD
-
+A detailed explanation on how i performed my CD can be found [here](https://github.com/YourGroceryFinder/Documents/blob/main/DockerResearch.md).
 
 ## 5. Cultural differences and ethics
 >Clarifications:
