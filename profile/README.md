@@ -41,11 +41,13 @@ For this i need a few different things:
 ## 2. Software quality
 >Clarification:
 >
->Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well >as applying static code analysis and code reviews.
+>Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well >as applying static code analysis and code reviews. It shows you the bugs you have, codesnells, security vulnerabilties, security hotspots and duplications. 
 
 ### Tests
 
 ### Sonar cloud
+To keep a high quality of software i use sonarcloud. Sonarcloud uses state-of-the-art tchniques in static code analysis to find priblems and potential problems in the code that you have written. 
+It also supports the reporting of test covrrage as part of analysis. It doesnt do it itself tho, it needs a third-party tool to be set up to produce the reports as part of your build process. This is why i decided not to use it. 
 
 ## 3. Agile method
 >Clarification:
@@ -76,6 +78,7 @@ If a new feature need to be added, a feature branch will be made from the dev br
 
 
 ### CD
+
 
 ## 5. Cultural differences and ethics
 >Clarifications:
