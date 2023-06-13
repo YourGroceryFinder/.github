@@ -54,7 +54,46 @@ It also supports the reporting of test covrrage as part of analysis. It doesnt d
 >
 >Choose: You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined >selection criteria and context analyses.
 
-### Jira
+### What is agile
+Agile is a certain approach to project management and software development. By being iterative and flexible it features adaptability, collaboration and delivering value to customers in shorter timeframes. 
+The agile approach focuses on having increments in your project called sprints. Each team decides how long a sprint can be. I have worked in projects where the sprints lasted one week and projects where they lasted up to three weeks. The goal is to create a result at the end of a sprint which can be reviewed, tested and improved/adjusted after receiving feedback.
+Agile has a few key principles:
+
+1. Customer collaboration over contract negotiation.
+   In agile it is important to see your customers/end-users as part of the team. This way there will be more involvement and makes them and you understand better what their needs are.
+   
+2. Responding to change over following a plan.
+   It is always smart to have someone of a plan set up like requirements and things like that. But with agile they aren’t set in stone. Agile recognizes that requirements can change during a project.
+   
+3. Working product over comprehensive documentation.
+   Agile emphasizes delivering a working product or prototype over big documentation. While documentation is still important, it isn’t as much for the customer. They want to see a result and the sooner they have an image, the better and more detailed feedback they can give.
+   
+4. Individuals and interactions over processes and tools.
+   Agile values the importance of effective communication and collaboration among team members. While processes and tools are essential, the emphasis is on empowering individuals to work together.
+
+### Which agile methods mostly used?
+There are many different agile methods. 8 of the most used agile methods are:
+1.	Scrum
+2.	Kanban
+3.	Lean
+4.	Extreme programming(XP)
+5.	Feature-Driven Development(FDD)
+6.	Dynamic Systems Development Method(DSDM)
+7.	Crystal
+8.	Adaptive Software Development
+
+The ones that stand out to me the most are Scrum, XP and FDD. This is what I found about them:
+- Scrum
+  Scrum is one of the most popular and widely adopted agile frameworks. It involves dividing work into short iterations called sprints, usually lasting 1-4 weeks. Scrum teams have defined roles, including a product owner, Scrum Master, and development team. Daily stand-up meetings, sprint planning, sprint reviews, and retrospectives are key Scrum practices.
+  
+- XP
+  Extreme Programming is a development approach that emphasizes close collaboration between developers and customers. It promotes practices such as frequent releases, continuous testing, pair programming, collective code ownership, and regular feedback from customers. It sounds like a more approachable way for beginning teams with new programmers.
+  
+- FDD
+  Feature-Driven Development is a feature-centric approach. It involves creating a feature list, developing features incrementally, and emphasizing domain modeling and design. It sounds like a approach I would use if I worked alone for a long time. Unlike scrum it doesn’t have the meetings every morning to talk about what everybody is planning to do or things like that. Its more less focusing on user stories and more on single features. 
+
+### My Choice
+I choose to go with Scrum. Even though I did mention that FDD is more of a single person team approach, it feels that scrum is a better way of involving anybody that I need to involve. I also think because scrum is one of the most used methods of agile it is very useful to learn it. What I like most about scrum is the sprint reviews, planning and the retrospectives. What is expected of me, what can I achieve and how did it go last time.
 
 ## 4. CI/CD
 >Clarification:
