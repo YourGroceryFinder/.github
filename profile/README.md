@@ -41,9 +41,6 @@ To keep a high quality of software i use sonarcloud. Sonarcloud uses state-of-th
 It also supports the reporting of test covrrage as part of analysis. It doesnt do it itself tho, it needs a third-party tool to be set up to produce the reports as part of your build process. This is why i decided not to use it. 
 
 ## 3. Agile method
->Clarification:
->
->Choose: You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined >selection criteria and context analyses.
 
 ### What is agile
 Agile is a certain approach to project management and software development. By being iterative and flexible it features adaptability, collaboration and delivering value to customers in shorter timeframes. 
