@@ -85,8 +85,6 @@ I choose to go with Scrum. Even though I did mention that FDD is more of a singl
 
 ## 4. CI/CD
 
-#Redirect to documentation
-
 ### CI
 For the CI tool im using Github Actions. I chose GitHub Actions because GitHub hosts it for me and it had easy configurations with the YAML file. Also is it very useful to have a wide range of tool to my disposure such as docker.
 
@@ -109,9 +107,6 @@ A detailed explanation on how i performed my CD can be found [here](https://gith
 In our group project we went over a couple points that include the [ACM Code of Ethics](https://www.acm.org/code-of-ethics). I found it very hard to think about these points because our group never had any difficulty with it. We tried to give more details on the points that did aply to our group and you can find that information over here in our [Cultural differences and ethics file](https://github.com/wocevv/Documentation/blob/main/Ethics.md)
 
 ## 6. Requirements and design
->Clarification:
->
->Multiple types of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of >the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
 For my personal project i made a rough design if what i wanted my application to look like, you can find that [here](https://github.com/YourGroceryFinder/YourGroceryFinder_Front-End#design). I made it with Visio. For our group project we made a low and high -res desifn which can be found [here](https://github.com/wocevv/Documentation/blob/main/Design.md). This one is made with figma. I think for Creating a valid prototype figma is a better option for understand how the application looks and acts.
 
