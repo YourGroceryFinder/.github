@@ -122,4 +122,8 @@ A detailed explanation on how i performed my CD can be found [here](https://gith
 >You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
 >You choose and substantiate solutions for a given problem.
 
-### Show mistake. I didnt communicate enough with stakeholder in IP but made up for that in GP with contact towards stakeholders there. 
+### Individual
+In the individual project I made a mistake. I didnt have enough contact with my stakeholder which made it hard for him to grasp where my progress was at. However the times that i did speak with the stakeholder I made sure to always keep the feedback in mind for the next sprint and reflect on what i did the srpint before.
+
+### Group
+The communication with the stakeholder in the group project went allot better. Every sprint we contacted the stakeholders for every question we had that could only be awnsered by them. After every presentation we gave we made sure to ask for extra feedback to make sure we worked on the parts that they wanted us to focus on and which they thought were most important. 
