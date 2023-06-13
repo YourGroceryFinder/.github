@@ -135,7 +135,9 @@ In our group project we went over a couple points that include the [ACM Code of 
 >
 >Multiple types of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of >the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
-### --
+For my personal project i made a rough design if what i wanted my application to look like, you can find that [here](https://github.com/YourGroceryFinder/YourGroceryFinder_Front-End#design). I made it with Visio. For our group project we made a low and high -res desifn which can be found [here](https://github.com/wocevv/Documentation/blob/main/Design.md). This one is made with figma. I think for Creating a valid prototype figma is a better option for understand how the application looks and acts.
+
+To better understand how userfriendly our application is and to imporve any difficulties we did some usability tests. You can find more information on those [here](https://github.com/wocevv/Documentation/blob/main/usability-test.md).
 
 ## 7. Business process
 >Clarification:
