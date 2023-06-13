@@ -89,7 +89,7 @@ A detailed explanation on how i performed my CD can be found [here](https://gith
 >
 >Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
 
-#Group project wait
+In our group project we went over a couple points that include the [ACM Code of Ethics](https://www.acm.org/code-of-ethics). I found it very hard to think about these points because our group never had any difficulty with it. We tried to give more details on the points that did aply to our group and you can find that information over here in our [Cultural differences and ethics file](https://github.com/wocevv/Documentation/blob/main/Ethics.md)
 
 ## 6. Requirements and design
 >Clarification:
@@ -109,7 +109,7 @@ A detailed explanation on how i performed my CD can be found [here](https://gith
 >
 >Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
-### Show communication with group and stake holders
+Our group had allot of communication with our stakeholders. We wnated to involve them in every descision we made so that we could deliver the producted they wanted most. We send them our ideas and sketches for the designs, at the end of every sprint we send them the targets for the next sprints and things like that. 
 
 ## 8. Proffessional
 >
