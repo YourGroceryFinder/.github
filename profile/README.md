@@ -33,11 +33,16 @@ For this i need a few different things:
 + A database where all the products are stored.
 
 ## 2. Software quality
+###Security
+To make sure my application is secured i make us of Oauth2.0. More information can be found [here](https://github.com/YourGroceryFinder/Documents/blob/main/OAuth2Research.md)
 
 ### Tests
+To monitor and test my application i made use of unit tests and integration tests. 
+Unit tests test the functionality of sertain functions and methods while integration tests test the contract between the layers. 
+The unit test should be able to run on its own.
 
 ### Sonar cloud
-To keep a high quality of software i use sonarcloud. Sonarcloud uses state-of-the-art tchniques in static code analysis to find priblems and potential problems in the code that you have written. 
+To keep a high quality of software i use sonarcloud. Sonarcloud uses state-of-the-art tchniques in static code analysis to find priblems and potential problems in the code that you have written. It shows you the bugs you have, codesnells, security vulnerabilties, security hotspots and duplications. 
 It also supports the reporting of test covrrage as part of analysis. It doesnt do it itself tho, it needs a third-party tool to be set up to produce the reports as part of your build process. This is why i decided not to use it. 
 
 ## 3. Agile method
