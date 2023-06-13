@@ -17,12 +17,6 @@ For every learning outcome there will be a clarification and how i reached that 
 # Learning outcomes S3
 ## 1. Web application
 
->Clarification:
->
->User friendly: You apply best practices when creating user interfaces and basic user experience testing and development techniques.
->
->Full-stack: You design and build a full stack application using a commonly accepted front end Javascript framework and back end application implementing relevant >communication protocols, persistence of data by usage of ORM and addressing asynchronous communication issues.
-
 ### Small explanation.
 My project is called YourGroceryFinder. I want to create a website where you can easily find where your favorite brand groceries are sold. 
 I got this idea when i really wanted my favorite energy drink but i couldnt find it in the stores close to my house.
@@ -39,9 +33,6 @@ For this i need a few different things:
 + A database where all the products are stored.
 
 ## 2. Software quality
->Clarification:
->
->Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well >as applying static code analysis and code reviews. It shows you the bugs you have, codesnells, security vulnerabilties, security hotspots and duplications. 
 
 ### Tests
 
@@ -96,9 +87,6 @@ The ones that stand out to me the most are Scrum, XP and FDD. This is what I fou
 I choose to go with Scrum. Even though I did mention that FDD is more of a single person team approach, it feels that scrum is a better way of involving anybody that I need to involve. I also think because scrum is one of the most used methods of agile it is very useful to learn it. What I like most about scrum is the sprint reviews, planning and the retrospectives. What is expected of me, what can I achieve and how did it go last time.
 
 ## 4. CI/CD
->Clarification:
->
->Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
 #Redirect to documentation
 
@@ -120,13 +108,6 @@ If a new feature need to be added, a feature branch will be made from the dev br
 A detailed explanation on how i performed my CD can be found [here](https://github.com/YourGroceryFinder/Documents/blob/main/DockerResearch.md).
 
 ## 5. Cultural differences and ethics
->Clarifications:
->
->Recognize: Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
->
->Take into account: Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures;
->
->Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
 
 In our group project we went over a couple points that include the [ACM Code of Ethics](https://www.acm.org/code-of-ethics). I found it very hard to think about these points because our group never had any difficulty with it. We tried to give more details on the points that did aply to our group and you can find that information over here in our [Cultural differences and ethics file](https://github.com/wocevv/Documentation/blob/main/Ethics.md)
 
@@ -140,28 +121,10 @@ For my personal project i made a rough design if what i wanted my application to
 To better understand how userfriendly our application is and to imporve any difficulties we did some usability tests. You can find more information on those [here](https://github.com/wocevv/Documentation/blob/main/usability-test.md).
 
 ## 7. Business process
->Clarification:
->
->Simple: Involving stakeholders, predominantly sequential processes with one or two alternative paths.
->
->Related: Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially >automating them). 
->
->or
->
->Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
 Our group had allot of communication with our stakeholders. We wnated to involve them in every descision we made so that we could deliver the producted they wanted most. We send them our ideas and sketches for the designs, at the end of every sprint we send them the targets for the next sprints and things like that. 
 
 ## 8. Proffessional
->
->Clarification:
->
->Professional manner: 
->
->You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and >communicate your progress with the team.
->
->You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
->You choose and substantiate solutions for a given problem.
 
 ### Individual
 In the individual project I made a mistake. I didnt have enough contact with my stakeholder which made it hard for him to grasp where my progress was at. However the times that i did speak with the stakeholder I made sure to always keep the feedback in mind for the next sprint and reflect on what i did the srpint before.
