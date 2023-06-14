@@ -33,7 +33,7 @@ For this i need a few different things:
 + A database where all the products are stored.
 
 ## 2. Software quality
-###Security
+### Security 
 To make sure my application is secured i make us of Oauth2.0. More information can be found [here](https://github.com/YourGroceryFinder/Documents/blob/main/OAuth2Research.md)
 
 ### Tests
